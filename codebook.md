@@ -20,3 +20,6 @@ filter is the filter applied to the column names to get only the means or std co
 sub_features is the vector the results in applying the filter
 dt is the data table that results from from subsetting with the filter, activity and subject columns
 dt2 is the separate data table that contains the averaged that get stored in tidydata.txt
+
+
+the column names have been modified to be decriptive enough to be self explanitory.
