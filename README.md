@@ -9,4 +9,4 @@ run_analysis.R contains the code that permorms the analysis.
 
 tidydata.txt contains the output of run_analysis.R
 
-codebook.md contains the explainations for vairables used, the data, and the transformations that were performed on the data.
+codebook contains the explainations for vairables used, the data, and the transformations that were performed on the data.
